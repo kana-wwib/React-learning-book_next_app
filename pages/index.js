@@ -9,5 +9,8 @@ export default () =>(
     <Link href="./other"><button>
       go to Other &gt;&gt;
     </button></Link>
+    <Link href="./calc"><button>
+      go to Calc &gt;&gt;
+    </button></Link>
   </Layout>
 );
