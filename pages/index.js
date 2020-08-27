@@ -12,5 +12,17 @@ export default () =>(
     <Link href="./calc"><button>
       go to Calc &gt;&gt;
     </button></Link>
+    <Link href="./fire"><button>
+      go to Fire &gt;&gt;
+    </button></Link>
+    <Link href="./fire_find"><button>
+      go to Firefind &gt;&gt;
+    </button></Link>
+    <Link href="./fire_add"><button>
+      go to Fireadd &gt;&gt;
+    </button></Link>
+    <Link href="./fire_del"><button>
+      go to Firedelete &gt;&gt;
+    </button></Link>
   </Layout>
 );
